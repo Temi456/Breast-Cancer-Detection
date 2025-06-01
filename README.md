@@ -6,7 +6,7 @@ This project applies deep learning (CNNs with transfer learning) to classify mam
 
 ---
 
-## 📌 Objective
+## Objective
 
 To support early detection of breast cancer by automating image classification from mammogram scans, with potential to assist radiologists in clinical diagnosis.
 
@@ -24,7 +24,7 @@ To support early detection of breast cancer by automating image classification f
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - **Backbone:** Pretrained ResNet18
 - **Modifications:**
@@ -58,7 +58,7 @@ To support early detection of breast cancer by automating image classification f
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 
 - Class imbalance must be handled early using augmentation and sampling.
 - Transfer learning is effective for small medical datasets.
@@ -66,7 +66,7 @@ To support early detection of breast cancer by automating image classification f
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Apply model to other imaging modalities (CT, MRI)
 - Integrate into clinical diagnostic workflows
