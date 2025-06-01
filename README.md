@@ -12,7 +12,7 @@ To support early detection of breast cancer by automating image classification f
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 - **Name:** MIAS (Mammographic Image Analysis Society)
 - **Type:** Grayscale mammogram images
@@ -46,7 +46,7 @@ To support early detection of breast cancer by automating image classification f
 
 ---
 
-## 📈 Results
+##  Results
 
 | Metric      | Score     |
 |-------------|-----------|
@@ -74,7 +74,7 @@ To support early detection of breast cancer by automating image classification f
 
 ---
 
-## 🧪 Requirements
+## Requirements
 
 - Python 3.8+
 - PyTorch
